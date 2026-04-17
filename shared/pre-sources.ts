@@ -13,6 +13,18 @@ const Time = {
 }
 
 export const originSources = {
+  "pojie": {
+    name: "吾爱破解",
+    color: "slate", // 标签颜色，你可以自定义
+    home: "https://www.52pojie.cn",
+    sub: {
+      "today": {
+        title: "今日排行",
+        column: "tech", // 分类归属，比如 tech (科技) 或者 forum
+        type: "hottest" // 热榜类型
+      }
+    }
+  },
   "v2ex": {
     name: "V2EX",
     color: "slate",
