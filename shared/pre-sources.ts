@@ -13,7 +13,7 @@ const Time = {
 }
 
 export const originSources = {
-  "pojie": {
+  "_52pojie": {
     name: "吾爱破解",
     color: "slate", // 标签颜色，你可以自定义
     home: "https://www.52pojie.cn",
